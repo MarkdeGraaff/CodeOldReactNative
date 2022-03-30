@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "439745540955",
+    "project_id": "jetron-ca4e1",
+    "storage_bucket": "jetron-ca4e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439745540955:android:698c61270c9e91f9c3e07e",
+        "android_client_info": {
+          "package_name": "com.jetron"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439745540955-9ui117f28nj8fp49pr4auo2pftn08ibr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa4NKqbYZa3CWYYJ0JzOs1vU8Rwf4G9UE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439745540955-9ui117f28nj8fp49pr4auo2pftn08ibr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
